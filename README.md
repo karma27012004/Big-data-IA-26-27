@@ -9,6 +9,8 @@ This repository will contain everything that I made or resources that helped me 
 - Experiments
 - More
 
+Notes and documents are made with the [Obsidian](https://obsidian.md/) app
+
 ---
 
 I will update (or at least ill try) it with everything that we make during class hours and by myself
